@@ -1,1 +1,1 @@
-# eleml.c
+# eleml.c - Elementary Machine Learning
